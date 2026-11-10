@@ -1,0 +1,2 @@
+[console_scripts]
+bank-account-service = bank_account_service.api:app
